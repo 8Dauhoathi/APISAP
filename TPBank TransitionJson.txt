@@ -1,0 +1,28 @@
+{
+  " sourceAppId": "SAPO",
+  "batchId": "94bd6509-ede9-4622-8eb9-17051c049477",
+  "timestamp": "2021-07-19-20-28-02-8283",
+  "signature": "p5zmZROBDxOBv9lGwV9ctuLkhmPar+ue2OrhrVXueD8BuEacf9m9J8M4goklGVyOG2TUrvIEYm6c6UagE8d2YEE/Fin7OM3XKOPYnFxwcyEJ5q9oxUa5SKlFudpiVTCSbuuckWczjKMgHzwOxM7FqeMYE5/p050QMc4WHOrPrFkEQcSHnOE3/WxrGOZPrL5tRnPJfH0F8Vbc84W5F0iCY0lWvIvVyrUu9AUjrkfZ+kkKCSeuduooXsLQe2SGMRapTwxcoDr5/XD26SHKH2lc+0BwXO2sSsmuTD4wU61URsODmsG7JSfwwOTdQmJ18FFjXYHQWduaM4AGGQUEEyKMPA==",
+  "data": [
+    {
+      "transactionId": "5382471401",
+      " accountNumber": "66522341",
+      "amount": 100000000,
+      " balanceAvailable": 2000000000,
+      " transType": "C",
+      " notiCreatedTime": "04/06/2019 10:27:27",
+      "transTime": "04/06/2019",
+      " tranDesc": "Nap tien"
+    },
+    {
+      "transactionId": "5382471402",
+      " accountNumber": "66522341",
+      "amount": 100000000,
+      " balanceAvailable": 2000000000,
+      " transType": "C",
+      " notiCreatedTime": "04/06/2019 10:27:27",
+      "transTime": "04/06/2019",
+      " tranDesc": "Nap tien"
+    }
+  ]
+}
